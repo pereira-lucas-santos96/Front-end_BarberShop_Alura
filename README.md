@@ -6,7 +6,6 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS 3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- [JavaScript](https://www.javascript.com/)
 
 ## Projeto
 
