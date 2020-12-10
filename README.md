@@ -13,7 +13,7 @@ Desenvolvido do zero um layout, proposto pela alura academy, durante o curso de 
 
 ## Licença
 
-Esse projeto está sob a licença GNU General Public License (GPL). Acesse [LICENSE](https://github.com/pereira-lucas-santos96/Calculadora_IMC/blob/master/License.md) para mais detalhes.
+Esse projeto está sob a licença GNU General Public License (GPL). Acesse [LICENSE](https://github.com/pereira-lucas-santos96/Front-end_BarberShop_Alura/blob/master/LINCENSE.md) para mais detalhes.
 
 ------
 
